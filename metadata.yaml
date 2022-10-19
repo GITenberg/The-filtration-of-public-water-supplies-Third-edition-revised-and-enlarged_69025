@@ -1,0 +1,27 @@
+_repo: The-filtration-of-public-water-supplies-Third-edition-revised-and-enlarged_69025
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hazen, Allen
+    gutenberg_agent_id: '55064'
+    url: http://www.gutenberg.org/2009/agents/55064
+description: ''
+gutenberg_issued: '2022-09-21'
+identifiers:
+  gutenberg: '69025'
+language: en
+pgterms:marc904: https://archive.org/details/filtrationofpubl00haze/page/n7/mode/2up
+pgterms:marc905: 20200704143356hazen
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Charlene Taylor, Brian G. Wilcox and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :John Wiley & Sons,1900,pubdate 1905.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The filtration of public water-supplies: Third edition, revised and enlarged.'
+url: http://www.gutenberg.org/ebooks/69025
