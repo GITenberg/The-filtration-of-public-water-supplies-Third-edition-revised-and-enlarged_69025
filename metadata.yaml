@@ -1,11 +1,16 @@
 _repo: The-filtration-of-public-water-supplies-Third-edition-revised-and-enlarged_69025
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69025-h/images/cover.jpg
 creator:
   author:
     agent_name: Hazen, Allen
     gutenberg_agent_id: '55064'
     url: http://www.gutenberg.org/2009/agents/55064
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69025#The-filtration-of-public-water-supplies-Third-edition-revised-and-enlarged
 gutenberg_issued: '2022-09-21'
 identifiers:
   gutenberg: '69025'
